@@ -1,0 +1,2 @@
+
+mygit -vim abcd.txt ==vim abcd.txt
